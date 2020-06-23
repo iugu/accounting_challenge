@@ -49,13 +49,12 @@ da conta
 1. O sistema responde que a conta informada não existe
 
 ## Entrega do projeto
-
+- Você deverá utilizar Ruby como linguagem de programação, e o uso de frameworks e gems ficará por sua conta!
 - Seu projeto deverá ser entregue através do github, em um repositório público ou privado, na sua própria conta do github. Depois ENVIE o link dele para nós. 
 - Se você fez eu um repositório privado, dê acesso de leitura para os usuários: *@noelrocha*, *@agramms*, *@silviolrjunior* e *@Marcovecchio*. Se não conseguir compartilhar para todos, compartilhe para pelo menos dois destes usuários.
 - O sistema deve expor uma API via HTTP
 - A API deve possuir algum mecanismo de autenticação para identificar o cliente que está fazendo as requisições
 - Os dados devem ser armazenados em um banco MySql
-- Você deverá utilizar Ruby como linguagem de programação, e o uso de frameworks e gems ficará por sua conta!
 - Sua solução deverá conter um arquivo README.md com as instruções de como executar o código
 
 ## Opcionais ( mas dá pontos extras! )
